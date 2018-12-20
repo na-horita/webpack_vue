@@ -12,9 +12,9 @@ IE11でもPromiseなどが使えるようになる。。
 
 
 ## コマンドについて
-####インストール
+#### インストール
 npm install
 
 
-####watch環境
+#### watch環境
 npm watch
